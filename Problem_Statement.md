@@ -6,9 +6,10 @@ Design and implement an OOP-based Restaurant Management System in Java to stream
 
 Problem Statement: 
 Design and implement an Object-Oriented Programming (OOP) based Restaurant Management System in Java to efficiently manage various aspects of restaurant operations, including order processing, inventory management, table reservations, and staff administration.
-⮚	
 
- Inventory Management: Keep track of the restaurant's inventory, including raw ingredients and supplies required for dishes. Automatically update inventory levels based on order processing.
+
+
+⮚	Inventory Management: Keep track of the restaurant's inventory, including raw ingredients and supplies required for dishes. Automatically update inventory levels based on order processing.
 
 ⮚	Billing and Payments: Generate itemized bills for customers, including taxes and service charges. Provide options for cash, credit card, or online payment methods.
 
